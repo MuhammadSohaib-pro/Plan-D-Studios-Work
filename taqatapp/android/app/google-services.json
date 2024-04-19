@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "86630116382",
+    "project_id": "house-maid-6cf74",
+    "storage_bucket": "house-maid-6cf74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86630116382:android:24cd4a53af80fd073f120f",
+        "android_client_info": {
+          "package_name": "com.crm.dealersgear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86630116382-6n5gpqgm684076ga5ema2s3628o7hnqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crm.dealersgear",
+            "certificate_hash": "f9e1a6b790902246e8cb6f000ea3298cfab82564"
+          }
+        },
+        {
+          "client_id": "86630116382-mh8j1elrh0fg11j3v86k31p3d3djv4nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdS7WHaiCf0KzobuMXelGVdM1FXwjc_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86630116382-0fh77opgv9029c8gbifvmshualkkupjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86630116382-844m2n7tgluj0688sc952u40ggu3ebf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plandstudios.taqat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86630116382:android:b95f2bed221324f23f120f",
+        "android_client_info": {
+          "package_name": "com.plandstudios.taqat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86630116382-rv5u9trv1i2lukobn8jbrll4k1el8kcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plandstudios.taqat",
+            "certificate_hash": "f9e1a6b790902246e8cb6f000ea3298cfab82564"
+          }
+        },
+        {
+          "client_id": "86630116382-mh8j1elrh0fg11j3v86k31p3d3djv4nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdS7WHaiCf0KzobuMXelGVdM1FXwjc_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86630116382-0fh77opgv9029c8gbifvmshualkkupjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86630116382-844m2n7tgluj0688sc952u40ggu3ebf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plandstudios.taqat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
